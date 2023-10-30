@@ -1,0 +1,13 @@
+vertex number, vertex name, linearized efficiency, adjacent vertices
+0, engine_0000001, 1.000000, 1
+1, electricalCable_0000001, 0.999996, 0, 2
+2, electricalBusSwitchgear_0000001, 1.000000, 1, 3, 4
+3, hvacAirConditioner_0000001, 1.000000, 2
+4, shipPayload_0000001, 1.000000, 2
+
+Source List:  vertex number, rated power 
+0, 30.000000
+
+Load List:  vertex number, rated power 
+3, 5.000000
+4, 0.200000
